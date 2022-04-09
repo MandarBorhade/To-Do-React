@@ -9,7 +9,6 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow-x: hidden;
 }
 
 *::before , *::after {
@@ -17,7 +16,7 @@ body{
 }
 
 .container {
-  width: 75vw;
+  width: 50vw;
   margin: 0;
   padding: 3rem;
   display: grid;
